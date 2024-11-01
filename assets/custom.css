@@ -1,0 +1,6 @@
+.verify_code_form {
+	overflow: hidden;
+}
+.verify_code_form > div {
+	margin-top: 5px;
+}

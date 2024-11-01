@@ -1,0 +1,35 @@
+.hidden{
+	display: none;
+}
+.tabs_header li.tab_header_item a, .tabs_header li.tab_header_item a:focus{
+	box-shadow: none;
+}
+.tab_content td {
+	color: #444;
+}
+.tab_content label {
+	display: inline-block;
+	vertical-align: top;
+	width: 180px;
+}
+.tab_content input[type=text],
+.tab_content input[type=number],
+.tab_content input[type=email],
+.tab_content input[type=password],
+.tab_content textarea,
+.tab_content select{
+	width: 175px
+}
+.tabs_holder.tabs_wrapper {
+	background: #fff none repeat scroll 0 0;
+	margin-top: 5px;
+}
+.cb_option_form .form-table span {
+	color: #444;
+	font-size: 12px;
+	vertical-align: top;
+}
+.cb_option_form .form-table span.pro_feature a{
+	color: #f00;
+	/*text-decoration: none;*/
+}
